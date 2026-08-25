@@ -26,15 +26,3 @@ cd TrainingCenterManagement
 ## Usage
 
 [Add usage instructions here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests.
-
-## License
-
-[Add license information here]
-
-## Contact
-
-For questions or support, please contact the project maintainers.
