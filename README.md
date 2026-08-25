@@ -22,7 +22,3 @@ To get started with this project, clone the repository and install dependencies:
 git clone https://github.com/doniaAdnan-cmd/TrainingCenterManagement.git
 cd TrainingCenterManagement
 ```
-
-## Usage
-
-[Add usage instructions here]
